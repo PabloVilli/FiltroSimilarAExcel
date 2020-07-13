@@ -1,0 +1,13 @@
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\obj\Debug\ReplicacionFiltro.vbprojAssemblyReference.cache
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\obj\Debug\ReplicacionFiltro.Frm_Filtro.resources
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\obj\Debug\ReplicacionFiltro.Frm_Grid.resources
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\obj\Debug\ReplicacionFiltro.Resources.resources
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\obj\Debug\ReplicacionFiltro.vbproj.GenerateResource.cache
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\obj\Debug\ReplicacionFiltro.vbproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\bin\Debug\ReplicacionFiltro.exe.config
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\bin\Debug\ReplicacionFiltro.exe
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\bin\Debug\ReplicacionFiltro.pdb
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\bin\Debug\ReplicacionFiltro.xml
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\obj\Debug\ReplicacionFiltro.exe
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\obj\Debug\ReplicacionFiltro.xml
+C:\Users\Pablo\Documents\GitHub\FiltroSimilarAExcel\ReplicacionFiltro\ReplicacionFiltro\obj\Debug\ReplicacionFiltro.pdb
